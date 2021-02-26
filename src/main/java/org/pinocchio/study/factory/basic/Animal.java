@@ -1,9 +1,14 @@
 package org.pinocchio.study.factory.basic;
 
 /**
- * 通用产品接口
+ * 通用产品接口：动物
  */
 public interface Animal {
+
+    /**
+     * 渲染方法
+     */
+    void render();
 
     /**
      * 吃饭方法
