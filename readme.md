@@ -3,7 +3,7 @@
 ## 创建型模式
 - [x] 工厂模式 `org.pinocchio.study.factory.Demo`
 - [x] 抽象工厂模式 `org.pinocchio.study.abstract_factory.Demo`
-- [ ] 生成器模式
+- [x] 生成器模式
 - [ ] 原型模式
 - [ ] 单例模式
 ## 结构性模式
